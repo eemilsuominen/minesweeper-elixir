@@ -1,9 +1,6 @@
 # Minesweeper
 
 **Minesweeper in terminal**
-TODO 
-KOMMENTIT
-MIINAT YMS LOPUSSA
 
 ## Installation
 
